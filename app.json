@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "acims",
+    "slug": "acims",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "acims"
+}
